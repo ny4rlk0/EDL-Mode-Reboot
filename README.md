@@ -1,2 +1,8 @@
 # EDL-Mode-Reboot
-Android exit from EDL mode. Android cihazınızda EDL moddan bu yazılımla çıkabilirsiniz.
+<br> 1)"Drivers\Windows" içindeki tüm cihaz sürücülerini yükleyin.
+<br> 2)Libusb yazanda cihazınızı bağlayın. Seçip install butonuna basın.
+<br> 3)UI_ny4rlk0.exe uygulamasını açın.
+<br> 4)Install Python butonuna basıp 2-3 dk bekleyin. 
+<br> (İnternet hızınıza bağlı 30 MB civarı indirme yapacak. Bu arada yazılım aceleyle yazdığım için donabilir kapatmayın. İndirip kursun Python'u.)
+<br> 5)Exit EDL butonuna basın.
+<br> 6)Sorun çıkarsa ekran alıntısını atın. (Komut satırının.)
