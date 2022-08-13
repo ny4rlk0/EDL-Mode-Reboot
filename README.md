@@ -9,4 +9,4 @@
 <br> 6)Sorun çıkarsa ekran alıntısını atın. (Komut satırının.)
 <br> Ekran Görüntüsü
 <br> <p align="center">
-    <img src="10.jpg">
+    <img src="10.JPG">
