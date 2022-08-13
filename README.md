@@ -10,3 +10,4 @@
 <br> Ekran Görüntüsü
 <br> <p align="center">
     <img src="10.JPG">
+<br> Ben sadece arayüz yazıp yazılımı çalışır hale getirdim. Bütün kredi sahara'yı yazana aittir.
