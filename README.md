@@ -1,5 +1,6 @@
 # EDL-Mode-Reboot
-<br> <a href="https://github.com/ny4rlk0/EDL-Mode-Reboot/releases/download/MAIN/EDL_EXIT.exe">İndir / Download </a>
+<br> <a href="https://github.com/ny4rlk0/EDL-Mode-Reboot/releases/download/EXIT_EDL_v0.2/EDL_EXITv0.2.exe">İndir / Download v0.1</a>
+<br> <a href="https://github.com/ny4rlk0/EDL-Mode-Reboot/releases/download/MAIN/EDL_EXIT.exe">İndir / Download v0.1</a>
 <br> 1)"Drivers\Windows" içindeki tüm cihaz sürücülerini yükleyin.
 <br> 2)Libusb yazanda cihazınızı bağlayın. Seçip install butonuna basın.
 <br> 3)UI_ny4rlk0.exe uygulamasını açın.
